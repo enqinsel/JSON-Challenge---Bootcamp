@@ -1,4 +1,4 @@
-# JSON-Challenge---Bootcamp
+# JSON-Challenge-Bootcamp
 I processed the data from the JSON file in the desired template.
 
 #Projenin Ekran Görüntüsü;
